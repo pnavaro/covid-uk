@@ -14,7 +14,7 @@ Stochastic age-structured model of SARS-nCoV-2 transmission for UK scenario proj
 ```bash
 cd covid-uk
 conda env create -f conda/environment.yml
-conda acivate covid-uk
+conda activate covid-uk
 Rscript UK.R 1 50
 ```
 
