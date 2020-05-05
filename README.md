@@ -6,6 +6,18 @@ Stochastic age-structured model of SARS-nCoV-2 transmission for UK scenario proj
 
 ## Quick start guide
 
+### Installing using miniconda
+
+- Download and install [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+- Clone this repository
+- Install dependencies with
+```bash
+cd covid-uk
+conda env create -f conda/environment.yml
+conda acivate covid-uk
+Rscript UK.R 1 50
+```
+
 ### Installing dependencies for Mac OS
 
 You will need to install gfortran binaries from here: https://github.com/fxcoudert/gfortran-for-macOS/releases
