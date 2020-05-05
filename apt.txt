@@ -1,1 +1,2 @@
 libnlopt-dev
+libgsl-dev
