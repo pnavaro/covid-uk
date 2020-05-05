@@ -1,3 +1,5 @@
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pnavaro/covid-uk/master?urlpath=rstudio)
+
 # covid-uk
 
 Stochastic age-structured model of SARS-nCoV-2 transmission for UK scenario projections.

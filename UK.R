@@ -4,10 +4,11 @@
 
 library(rlang)
 library(stringr)
+library(here)
 
 # Set path
 # Set this path to the base directory of the repository.
-covid_uk_path = "~/Dropbox/COVID-UK"
+covid_uk_path = here()
 
 # covidm options
 cm_path = paste0(covid_uk_path, "/covidm/");
