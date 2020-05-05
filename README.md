@@ -1,4 +1,4 @@
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pnavaro/covid-uk/master?urlpath=rstudio)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pnavaro/covid-uk/master?urlpath=rstudio)
 
 # covid-uk
 
