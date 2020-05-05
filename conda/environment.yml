@@ -1,0 +1,16 @@
+name: covid-uk
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - nlopt
+  - r
+  - r-qs
+  - r-here
+  - r-data.table
+  - r-lubridate
+  - r-nloptr
+  - r-hdinterval
+  - r-rcppgsl
+  - r-ggplot2
+  - r-stringr
