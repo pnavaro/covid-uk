@@ -14,4 +14,4 @@ packages <- c(
 "wpp2019", 
 "socialmixr", 
 "readxl")
-install.packages(packages)  
+install.packages(packages, repos="http://cran.us.r-project.org")  
