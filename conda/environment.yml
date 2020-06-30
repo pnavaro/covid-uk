@@ -1,10 +1,10 @@
 name: covid-uk
 channels:
-  - r
+  - conda-forge
   - defaults
 dependencies:
   - nlopt
-  - r
+  - r=3.6
   - r-qs
   - r-here
   - r-data.table
